@@ -6,6 +6,10 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/one.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacksplwxy/hello-lerna"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
