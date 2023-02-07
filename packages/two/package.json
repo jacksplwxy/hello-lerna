@@ -1,0 +1,19 @@
+{
+  "name": "two",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "jacksplwxy <895685537@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/two.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/two.test.js"
+  }
+}
